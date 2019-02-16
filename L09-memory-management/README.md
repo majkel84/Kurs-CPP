@@ -6,10 +6,10 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ### Pre-work 
 
 ### Materials
-- [ ] Repo [memory management](https://github.com/LordLukin/memory_management)
-- [ ] Framework [GTest](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
-- [ ] [memory_management repo](https://github.com/LordLukin/memory_management)
-- [ ] [prezentacja z zajęć](memory_management.pdf)
+- [X] Repo [memory management](https://github.com/LordLukin/memory_management)
+- [X] Framework [GTest](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
+- [X] [memory_management repo](https://github.com/LordLukin/memory_management)
+- [X] [prezentacja z zajęć](memory_management.pdf)
 
 
 ### Nagranie i foto
@@ -20,7 +20,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ### Post-work
 - [ ] Pozostałe zadania z repo [memory management](https://github.com/LordLukin/memory_management)
 - [ ] Sprawdź wszystkie dotychczasowe programy, które napisaliśmy pod kątem wycieków pamięci. Jeśli takie są to popraw je używając inteligentnych wskaźników
-- [ ] Napisz mi maila na lukasz@coders.school z odpowiedziami na poniższe pytania:
+- [X] Napisz mi maila na lukasz@coders.school z odpowiedziami na poniższe pytania:
   1. Kiedy używamy operatora delete a kiedy delete[]? Podaj przykłady kodu.
   1. Co to jest RAII?
   1. Wymień znane Ci inteligentne wskaźniki (smart pointers) z biblioteki standardowej.
