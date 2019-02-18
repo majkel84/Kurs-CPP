@@ -12,12 +12,14 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [X] [prezentacja z zajęć](memory_management.pdf)
 
 
-### Nagranie i foto
+###
+Nagranie i foto
 - [Nagranie z zajęć](https://www.youtube.com/watch?v=OJCKdOFSRm0&feature=youtu.be)
 - <img src="argv.jpg" width="250px"> <img src="dependency_injection.jpg" width="250px">
 
 
 ### Post-work
+
 - [ ] Pozostałe zadania z repo [memory management](https://github.com/LordLukin/memory_management)
 - [ ] Sprawdź wszystkie dotychczasowe programy, które napisaliśmy pod kątem wycieków pamięci. Jeśli takie są to popraw je używając inteligentnych wskaźników
 - [X] Napisz mi maila na lukasz@coders.school z odpowiedziami na poniższe pytania:
@@ -27,6 +29,6 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   1. Kiedy używać get(), release(), reset() na inteligentnych wskaźnikach?
 
 ### Pre-work for the next classes
-- [ ] Poczytaj o nowościach, które weszły w [standardzie C++11](https://en.wikipedia.org/wiki/C%2B%2B11) oraz [standardzie C++14](https://en.wikipedia.org/wiki/C%2B%2B14)
+- [X ] Poczytaj o nowościach, które weszły w [standardzie C++11](https://en.wikipedia.org/wiki/C%2B%2B11) oraz [standardzie C++14](https://en.wikipedia.org/wiki/C%2B%2B14)
 
 
