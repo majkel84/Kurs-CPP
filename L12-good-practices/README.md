@@ -15,7 +15,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   - Singleton
   - Adapter
   - Composite
-  - Decorator 
+  - Decorator
   - Facade
   - Observer
   - State
@@ -35,6 +35,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] Projekt grupowy [Logical Images](https://github.com/LordLukin/LogicalImages) lub [Bowling](https://github.com/LordLukin/Bowling)
 - [X] [Post-test z Nowoczesnego C++](https://goo.gl/forms/4GTHOv9V6LecWA5C2) - masz wiele podejść, nie dowiem się kto tak słabo ten test wypełnia :D
 - [X] Zobacz na kod [PizzaOrders](https://github.com/LordLukin/PizzaOrders). Zbuduj go i uruchom program oraz testy. Spędź z tym kodem ok. godziny czasu, próbując zrozumieć co jego poszczególne części robią. **Wypisz sobie, co w tym kodzie wymaga poprawy według dobrych praktyk programistycznych**. Wskazówki znajdziesz:
+
   - w opisie w README.md
   - przeglądając historię commitów
   - patrząc na inne branche, na których są próby refaktoringu tego kodu przez zaawansowane grupy (ze szkoleń dla firm)
@@ -42,6 +43,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 ### Pre-work for the next classes
 - [X] Przygotuj krótkie wystąpienie (max 10 minut) o wybranym wzorcu projektowym. Forma dowolna (PowerPoint, tablica, wydruki, film? :D). Musi być przykład kodu w C++. Materiałami musisz podzielić się jakoś z innymi, aby mogli się oni nauczyć tego wzorca. Najlepiej gdy wrzucisz je jeszcze przed przyszłymi zajęciami na Discorda.
+
   - Factory Method (Przemek)
   - Abstract Factory (Michał)
   - Builder (Maja)
@@ -55,7 +57,9 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   - Strategy (Jakub)
   - Template Method
   - Visitor
+
 - [X] Przygotuj krótkie wystąpienie (max 10 minut) na wybrany temat. Również dowolna forma. Podziel się materiałami. Obowiązkowo przykłady kodu/komendy/fragmenty plików.
+
   - git (Kasia)
   - systemy budowania
   - zarządzanie pamięcią (smart pointery, wycieki pamięci) (Tomek)
